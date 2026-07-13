@@ -19,7 +19,7 @@ public class Train {
     }
 
     public Train(String aTrainId, String aTrainName, int aCapacity) {
-        trainId = aTrain
+        trainId = aTrainId;
         trainName = aTrainName;
         capacity = aCapacity;
     }
