@@ -25,9 +25,9 @@ public class Train {
     }
 
     public void displayTrain() {
-        System.out.println("Train ID: " + trainId);
-        System.out.println("Train Name: " + trainName);
-        System.out.println("Capacity: " + 0 + "/" + capacity);
+        System.out.println("Train ID    : " + trainId);
+        System.out.println("Train Name  : " + trainName);
+        System.out.println("Capacity    : " + 0 + "/" + capacity);
 
         // zero is placeholder, use to test
         // later need to change to the total number of passenger already book this train
