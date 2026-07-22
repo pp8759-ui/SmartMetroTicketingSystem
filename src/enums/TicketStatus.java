@@ -1,4 +1,7 @@
 package enums;
 
-public class TicketStatus {
+public enum TicketStatus {
+    ACTIVE,
+    CANCELLED,
+    USED
 }
